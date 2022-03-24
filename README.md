@@ -37,11 +37,11 @@ Precondition: User must provide input files (config.json, dataset.json)
 8) System outputs performance metrics to metrics.json.
 
 ## Developers
-* Eymen Topçuoğlu
-* Berkay Deniz
-* Muhammed Raşit Ayaz
-* Ahmet Emirhan Bakkal
-* Yunus Yıldırım
-* Vahap Gözenelioğlu
-* Ahmet Faruk Yılmaz
-* Ubeydullah Günay
+* [Eymen Topçuoğlu](https://github.com/eymentopcuoglu)
+* [Berkay Deniz](https://github.com/berkay-deniz)
+* [Muhammed Raşit Ayaz](https://github.com/rasitayaz)
+* [Ahmet Emirhan Bakkal](https://github.com/ahmetemirhanbakkal)
+* [Yunus Yıldırım](https://github.com/yunus-yildirim)
+* [Vahap Gözenelioğlu](https://github.com/VahapGozenelioglu)
+* [Ahmet Faruk Yılmaz](https://github.com/ahmetfarukyilmaz)
+* [Ubeydullah Günay](https://github.com/Ubeydullah-Gunay)
